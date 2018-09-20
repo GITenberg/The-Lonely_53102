@@ -1,5 +1,5 @@
 _repo: The-Lonely_53102
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Lutjens
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: http://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 53102-h/images/cover.jpg
 creator:
   author:
     agent_name: Merril, Judith
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35388
     wikipedia: https://en.wikipedia.org/wiki/Judith_Merril
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53102#The-Lonely
 gutenberg_issued: '2016-09-20'
 gutenberg_type: Text
 identifiers:
