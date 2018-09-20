@@ -1,0 +1,42 @@
+_repo: The-Lonely_53102
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Lutjens
+    gutenberg_agent_id: '47216'
+    url: http://www.gutenberg.org/2009/agents/47216
+  - agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: http://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Merril, Judith
+    alias: Grossman, Josephine Juliet
+    birthdate: 1923
+    deathdate: 1997
+    gutenberg_agent_id: '35388'
+    url: http://www.gutenberg.org/2009/agents/35388
+    wikipedia: https://en.wikipedia.org/wiki/Judith_Merril
+description: ''
+gutenberg_issued: '2016-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Interstellar communication -- Fiction'
+- GITenberg
+title: The Lonely
+url: http://www.gutenberg.org/ebooks/53102
